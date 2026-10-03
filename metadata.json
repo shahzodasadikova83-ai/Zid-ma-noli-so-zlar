@@ -1,0 +1,6 @@
+{
+  "name": "Zid ma'noli so'zlar — 4-sinf ona tili",
+  "description": "4-sinf o'quvchilari uchun zid ma'noli so'zlar (antonimlar) bo'yicha interaktiv ta'limiy o'yinlar, darslar, sarguzashtli ertak va testlar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
